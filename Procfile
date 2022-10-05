@@ -1,1 +1,1 @@
-web: mode server.js
+web: node server.js
